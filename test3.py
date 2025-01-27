@@ -1,5 +1,10 @@
 def hello():
-    print('Hello World')
+    print('Hello')
+
+
+def world():
+    print('World')
 
 
 hello()
+world()
